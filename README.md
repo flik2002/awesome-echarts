@@ -237,6 +237,7 @@ This is a repo contributed by community with awesome resources for [Apache EChar
 ### VSCode Extensions
 - [echarts-vscode-extension](https://github.com/susiwen8/echarts-vscode-extension) @susiwen8 - vscode extension for Apache ECharts autocompletion
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - AI monitoring AI system. Vue 3 + Element Plus + ECharts. [Online Demo](http://47.109.47.116/)
 ## Community
 
 - 🇨🇳 [ECharts Gallery](https://www.makeapie.com)
